@@ -1,2 +1,2 @@
-<img src="qr-code-pin1.png"  width=50% height=50%>
+<img src="qr-code-pin1.png"  width=10% height=10%>
 
