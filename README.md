@@ -1,2 +1,2 @@
-![A nice image.](qr-code-pin1.png){:height="36px" width="36px"}
+<img src="qr-code-pin1.png"  width=50% height=50%>
 
