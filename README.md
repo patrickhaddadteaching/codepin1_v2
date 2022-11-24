@@ -1,5 +1,6 @@
 ## How to launch the exercise ?
 * We can execute this exercise on [Colab](https://colab.research.google.com/github/patrickhaddadteaching/codepin1/blob/main/codepin1_binder.ipynb)
+    * [Click here](https://colab.research.google.com/github/patrickhaddadteaching/codepin1/blob/main/codepin1_binder.ipynb)
     * Then press Ctrl+F9 or click on Runtime/Run All
 * We can also execute this exercise on Binder
     * Click or scan the QR-code <a href="https://mybinder.org/v2/gh/patrickhaddadteaching/codepin1/main?urlpath=voila%2Frender%2Fcodepin1_binder.ipynb"><img src="qr-code-pin1.png" style="width:100px;height:100px;"></a>
@@ -22,13 +23,13 @@ The following library is required:
     ```
     * Now, you can either launch the notebook by executing the folowing command in the directory where you cloned this repositorie.
     ```
-    jupyter-notebook.exe .\TRNG_ex3_nb.ipynb
+    jupyter-notebook.exe .\codepin1.ipynb
     
     ```
     
     * Or, you can directly launch it with voila  by executing the folowing command in the directory where you cloned this repositorie.
     ```
-    voila.exe .\TRNG_ex3_nb.ipynb
+    voila.exe .\codepin1.ipynb
     ```
 2. Linux
 3. Mac OS X
